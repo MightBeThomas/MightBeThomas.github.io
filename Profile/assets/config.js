@@ -7,7 +7,7 @@ const config = {
      */
     PICTURE: "assets/img/profile_picture.png",
 
-    DESCRIPTION: "Change this bio in the <b>assets/config.js</b> file. <i>It may include HTML syntax</i>",
+    DESCRIPTION: "cock"
 
     BADGES: [
         { id: "HypeSquad Bravery", image: "assets/img/hypesquad_bravery.svg" },
