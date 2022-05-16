@@ -7,7 +7,7 @@ const config = {
      */
     PICTURE: "assets/img/profile_picture.png",
 
-    DESCRIPTION: "cock",
+    DESCRIPTION: "test-4",
 
     BADGES: [
         { id: "HypeSquad Bravery", image: "assets/img/hypesquad_bravery.svg" },
