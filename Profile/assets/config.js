@@ -21,7 +21,7 @@ const config = {
     ],
 
     SOCIALS: [
-        { class_name: "fab fa-github", link: "https://github.com/discord" },
+        { class_name: "fab fa-discord", link: "https://github.com/discord" },
         { class_name: "fab fa-twitter", link: "https://twitter.com/discord" },
     ],
 
